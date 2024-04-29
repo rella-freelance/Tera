@@ -10,6 +10,7 @@ from PIL.ImageChops import add, subtract, multiply, difference, screen
 import PIL.ImageStat as stat
 from skimage.io import imread, imsave, imshow, show, imread_collection, imshow_collection
 from skimage import color, exposure, img_as_float, data #, viewer
+#viewer commented out; has problems with skimage version used
 from skimage.util import invert, random_noise, montage
 import matplotlib.pylab as plt
 import matplotlib.image as mpimg
