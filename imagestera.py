@@ -1,6 +1,6 @@
 #Importing the necessary libraries. Really a number  of them
 #repo: https://github.com/PacktPublishing/Hands-On-Image-Processing-with-Python/blob/master/Chapter01/Chapter1.ipynb
-#input and output images provided
+#input and output images provided.
 # code commented out after it's proven to be working; prevent many displays 
 import skimage
 print(skimage.__version__)
